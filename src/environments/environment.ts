@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBase: "http://localhost:8080",
+  apiBase: "https://card-game-marvel.herokuapp.com",
   firebase: {
     apiKey: "AIzaSyBhYMS0ndr4YHnkhZ9RLcxHO_d4oO6XlWA",
   authDomain: "cardgame-92222.firebaseapp.com",
